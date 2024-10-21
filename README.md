@@ -51,7 +51,7 @@ Additionally, you will need the `shape_predictor_68_face_landmarks.dat` file, wh
 
 3. Make sure you have all the required packages installed.
 
-4. Place the `shape_predictor_68_face_landmarks.dat` file in the project directory or adjust the path in the script accordingly.
+4. Place the `shape_predictor_68_face_landmarks.dat` file in the project directory or adjust the path in the script accordingly. Download from online.
 
 ## Usage
 
