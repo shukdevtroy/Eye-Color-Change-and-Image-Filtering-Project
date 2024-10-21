@@ -40,13 +40,13 @@ Additionally, you will need the `shape_predictor_68_face_landmarks.dat` file, wh
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/shukdevtroy/Eye-Color-Change-and-Image-Filtering-Project.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-repo-name
+   cd Eye-Color-Change-and-Image-Filtering-Project
    ```
 
 3. Make sure you have all the required packages installed.
@@ -62,9 +62,7 @@ Additionally, you will need the `shape_predictor_68_face_landmarks.dat` file, wh
 
 3. Run the script:
 
-   ```bash
-   python your_script_name.py
-   ```
+   Using VS code
 
 4. The processed images will be saved in the `output_dir` directory with the applied filters and color changes.
 
