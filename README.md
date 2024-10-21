@@ -66,7 +66,7 @@ Additionally, you will need the `shape_predictor_68_face_landmarks.dat` file, wh
 
 4. The processed images will be saved in the `output_dir` directory with the applied filters and color changes.
 
-## File Structure
+## Eye-Color-Change-and-Image-Filtering-Project
 
 ```
 /your-repo-name
