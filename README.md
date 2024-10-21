@@ -71,7 +71,7 @@ Additionally, you will need the `shape_predictor_68_face_landmarks.dat` file, wh
 ```
 /your-repo-name
 │
-├── main_script.py                # The main script for processing images
+├── program.ipynb                # The main code for processing images
 ├── shape_predictor_68_face_landmarks.dat  # Facial landmark model file
 ├── README.md                     # Documentation for the project
 └── requirements.txt              # List of required packages
